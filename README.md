@@ -1,15 +1,20 @@
-# Number Analyzer
+# My First Repo 🚀
 
-A simple Python project that tells you useful information about any number you enter.  
-This project shows basic Python concepts like functions, conditions, loops, and error handling.
+**Author:** Vishnu Pratap Singh  
+**Level:** Beginner Project  
 
-## 🔧 Features
-- Check if a number is **Even or Odd**
-- Check if it is **Positive or Negative**
-- Calculates **Square**
-- Calculates **Cube**
-- Handles invalid input
+This is my first GitHub repository where I am learning to code and experimenting with small programs. The purpose of this repo is to practice programming concepts and share my learning journey.
 
-## 🚀 How to Run
-1. Install Python on your device  
-2. Run the script using:
+---
+
+## **Project Description**
+This repository contains beginner-level coding projects in Python (or other languages you used).  
+It includes programs for:
+- Basic calculations
+- Input/output handling
+- Small fun projects
+- Practice exercises
+
+---
+
+## **Folder Structure**
